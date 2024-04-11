@@ -1,0 +1,22 @@
+body {
+    background-color: #333A73;
+    color: #50C4ED;
+    font-family:sans-serif;
+}
+
+article,
+button,
+footer {
+    margin-top: 25px;
+}
+
+
+.btn {
+    background-color: #387ADF;
+    color: black;
+}
+
+.btn:hover {
+    background-color: #FBA834;
+    color: black;
+}
